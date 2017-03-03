@@ -1,0 +1,21 @@
+logrotate state -- version 2
+"/home/nos373737/.cache/upstart/unity7.log" 2017-3-3-20:12:42
+"/home/nos373737/.cache/upstart/hud.log" 2017-3-3-20:12:42
+"/home/nos373737/.cache/upstart/indicator-sound.log" 2017-3-3-20:12:42
+"/home/nos373737/.cache/upstart/update-notifier-crash-_var_crash__usr_lib_x86_64-linux-gnu_notify-osd.1000.crash.log" 2017-3-3-20:12:42
+"/home/nos373737/.cache/upstart/update-notifier-release.log" 2017-3-2-23:44:56
+"/home/nos373737/.cache/upstart/im-config.log" 2017-3-2-23:44:56
+"/home/nos373737/.cache/upstart/indicator-application.log" 2017-3-2-23:0:0
+"/home/nos373737/.cache/upstart/dbus.log" 2017-3-3-20:12:42
+"/home/nos373737/.cache/upstart/unity-panel-service.log" 2017-3-3-20:12:42
+"/home/nos373737/.cache/upstart/update-notifier-crash-_var_crash__usr_bin_update-manager.1000.crash.log" 2017-3-2-23:44:56
+"/home/nos373737/.cache/upstart/gnome-keyring-gpg.log" 2017-3-2-23:44:56
+"/home/nos373737/.cache/upstart/indicator-session.log" 2017-3-3-20:0:0
+"/home/nos373737/.cache/upstart/unicast-local-avahi.log" 2017-3-3-20:12:42
+"/home/nos373737/.cache/upstart/ssh-agent.log" 2017-3-3-20:12:42
+"/home/nos373737/.cache/upstart/gnome-keyring-ssh.log" 2017-3-3-20:12:42
+"/home/nos373737/.cache/upstart/unity-settings-daemon.log" 2017-3-3-20:12:42
+"/home/nos373737/.cache/upstart/gnome-session-Unity.log" 2017-3-2-23:44:56
+"/home/nos373737/.cache/upstart/window-stack-bridge.log" 2017-3-3-20:12:42
+"/home/nos373737/.cache/upstart/gpg-agent.log" 2017-3-3-20:12:42
+"/home/nos373737/.cache/upstart/upstart-event-bridge.log" 2017-3-3-20:12:42
