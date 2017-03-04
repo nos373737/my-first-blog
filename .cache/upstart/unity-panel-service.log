@@ -4,3 +4,5 @@
 (unity-panel-service:2196): LIBDBUSMENU-GTK-WARNING **: The child-display variable is set to '(null)' but there's a menu, odd?
 
 (unity-panel-service:2196): LIBDBUSMENU-GTK-WARNING **: The child-display variable is set to '(null)' but there's a menu, odd?
+
+(unity-panel-service:2196): Indicator-Appmenu-WARNING **: Already have a menu for window ID 79691999 with path /com/canonical/menu/4C000DF from :1.109, unregistering that one
