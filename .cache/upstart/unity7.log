@@ -1,0 +1,8 @@
+1488664140496	addons.update-checker	WARN	Update manifest for webcompat@mozilla.org did not contain an updates property
+1488664140527	addons.update-checker	WARN	Update manifest for {972ce4c6-7e08-4474-a285-3208198ce6fd} did not contain an updates property
+1488664140540	addons.update-checker	WARN	Update manifest for e10srollout@mozilla.org did not contain an updates property
+1488664140552	addons.update-checker	WARN	Update manifest for firefox@getpocket.com did not contain an updates property
+1488664140714	addons.update-checker	WARN	Update manifest for hsts-priming@mozilla.org did not contain an updates property
+1488664140725	addons.update-checker	WARN	Update manifest for diagnostics@mozilla.org did not contain an updates property
+1488664140737	addons.update-checker	WARN	Update manifest for aushelper@mozilla.org did not contain an updates property
+1488664140748	addons.update-checker	WARN	Update manifest for disableSHA1rollout@mozilla.org did not contain an updates property

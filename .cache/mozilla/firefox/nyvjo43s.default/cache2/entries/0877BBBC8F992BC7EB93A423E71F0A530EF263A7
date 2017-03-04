@@ -969,15 +969,15 @@ table#change-history tbody th {
 .popup #header {
     padding: 10px 20px;
 }
-Úº`Œ"*      X¹½íX¹¼=€†X¹Á   0    :http://127.0.0.1:8000/static/admin/css/base.css necko:classified 1 strongly-framed 1 request-method GET response-head HTTP/1.0 200 OK
-Date: Fri, 03 Mar 2017 18:55:15 GMT
+â·Ð"*      X»5iX»5i=€ûšX»`/   0    :http://127.0.0.1:8000/static/admin/css/base.css necko:classified 1 strongly-framed 1 request-method GET response-head HTTP/1.0 200 OK
+Date: Sat, 04 Mar 2017 21:45:13 GMT
 Server: WSGIServer/0.2 CPython/3.5.2
 Content-Length: 15937
-Last-Modified: Fri, 03 Mar 2017 15:20:05 GMT
 Content-Type: text/css
- original-response-headers Date: Fri, 03 Mar 2017 18:55:15 GMT
+Last-Modified: Fri, 03 Mar 2017 15:20:05 GMT
+ original-response-headers Date: Sat, 04 Mar 2017 21:45:13 GMT
 Server: WSGIServer/0.2 CPython/3.5.2
 Content-Length: 15937
-Last-Modified: Fri, 03 Mar 2017 15:20:05 GMT
 Content-Type: text/css
+Last-Modified: Fri, 03 Mar 2017 15:20:05 GMT
  uncompressed-len 0   >A

@@ -23,12 +23,22 @@
       </metadata>
     </info>
   </bookmark>
-  <bookmark href="file:///home/nos373737/django/.gitignore" added="2017-03-03T19:11:38Z" modified="2017-03-03T19:11:38Z" visited="2017-03-03T19:11:39.035244Z">
+  <bookmark href="file:///home/nos373737/django/.gitignore" added="2017-03-03T19:11:38Z" modified="2017-03-03T19:11:38Z" visited="2017-03-03T19:11:39Z">
     <info>
       <metadata owner="http://freedesktop.org">
         <mime:mime-type type="application/octet-stream"/>
         <bookmark:applications>
           <bookmark:application name="atom" exec="&apos;atom %u&apos;" modified="2017-03-03T19:11:38Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/nos373737/django/blog/templates/blog/post_list.html" added="2017-03-03T23:00:30Z" modified="2017-03-03T23:00:30Z" visited="2017-03-03T23:00:30.698691Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/html"/>
+        <bookmark:applications>
+          <bookmark:application name="atom" exec="&apos;atom %u&apos;" modified="2017-03-03T23:00:30Z" count="1"/>
         </bookmark:applications>
       </metadata>
     </info>
